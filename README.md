@@ -1,2 +1,2 @@
-test\ #pentru un new line
+test\
 test2
